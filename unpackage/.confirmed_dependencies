@@ -1,0 +1,1026 @@
+{
+  "index.html": {
+    "resources": [
+      "js/mui.min.js",
+      "view/login.html",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js/update.js",
+      "js/app.js",
+      "view/tab.html",
+      "/js/mui.min.js",
+      "/js/mui.enterfocus.js",
+      "/js/app.js",
+      "css/style.css",
+      "js/mui.enterfocus.js"
+    ],
+    "refer": [
+      "view/login.html",
+      "view/guide.html",
+      "view/reg.html",
+      "view/tab.html",
+      "view/unlock.html",
+      "view/userreg.html"
+    ]
+  },
+  "view/login.html": {
+    "resources": [
+      "js/app.js",
+      "css/style.css",
+      "js/mui.enterfocus.js",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "images/sinaweibo.png",
+      "images/weixin.png",
+      "images/qq.png",
+      "images/shuijiao.jpg",
+      "fonts/mui.ttf",
+      "images/user-photo.png"
+    ],
+    "refer": [
+      "view/main.html",
+      "view/reg.html",
+      "view/forget_password.html",
+      "view/guide.html",
+      "view/tab.html",
+      "view/unlock.html",
+      "view/userreg.html"
+    ]
+  },
+  "view/main.html": {
+    "resources": [
+      "js/app.js",
+      "js/mui.min.js",
+      "css/mui.min.css"
+    ],
+    "refer": [
+      "view/setting.html"
+    ]
+  },
+  "view/setting.html": {
+    "resources": [
+      "js/app.js",
+      "libs/easymob-webim-sdk/easemob.im-1.0.5.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "libs/easymob-webim-sdk/json2.js",
+      "libs/easymob-webim-sdk/jquery-1.11.1.js",
+      "js/mui.locker.js",
+      "js/feedback.js",
+      "css/feedback-page.css",
+      "js/feedback-page.js",
+      "libs/easymob-webim-sdk/strophe-custom-2.0.0.js",
+      "js/mui.view.js",
+      "images/logo.png",
+      "images/iconfont-tianjia.png",
+      "images/user-photo.png",
+      "js/app/setting.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/require.js",
+      "js/lib/mui/mui.view.js",
+      "js/lib/mui/mui.locker.js",
+      "js/lib/jquery/jquery.js",
+      "css/setting.css",
+      "js/define/easemob.js",
+      "js/lib/easymob-webim-sdk//strophe-custom-2.0.0.js",
+      "js/lib/easymob-webim-sdk//json2.js",
+      "js/lib/easymob-webim-sdk//easemob.im-1.0.5.js",
+      "js/lib/bugtags.js",
+      "js/define/bughd.js",
+      "js/define/bugtags.js",
+      "js/lib/bughd.js"
+    ],
+    "refer": [
+      "view/guide.html",
+      "view/login.html",
+      "view/tab.html"
+    ]
+  },
+  "view/guide.html": {
+    "resources": [
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "images/1.jpg",
+      "images/2.jpg",
+      "images/3.jpg",
+      "js/app/guide.js",
+      "js/require.js",
+      "js/define/bughd.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/lib/bughd.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/lib/bugtags.js",
+      "js/define/bugtags.js"
+    ],
+    "refer": []
+  },
+  "view/reg.html": {
+    "resources": [
+      "js/app.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "css/style.css",
+      "fonts/icomoon.ttf",
+      "css/app.css",
+      "js/app/reg.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "css/reg.css",
+      "js/define/bughd.js",
+      "js/define/bugtags.js",
+      "js/lib/bughd.js",
+      "js/lib/bugtags.js",
+      "js/require.js"
+    ],
+    "refer": [
+      "view/login.html",
+      "view/tab.html",
+      "view/index.html"
+    ]
+  },
+  "view/tab.html": {
+    "resources": [
+      "fonts/mui.ttf",
+      "view/tab-webview-subpage-about.html",
+      "js/app.js",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "view/home.html",
+      "view/tab-webview-subpage-setting.html",
+      "view/plan.html",
+      "view/home_t.html",
+      "view/rate.html",
+      "css/app.css",
+      "fonts/icomoon.ttf",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/app/tab.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/require.js",
+      "js/define/bughd.js",
+      "js/lib/bughd.js"
+    ],
+    "refer": [
+      "view/tab-webview-subpage-contact.html",
+      "view/tab-webview-subpage-setting.html",
+      "view/tab-webview-subpage-about.html",
+      "view/tab-webview-subpage-chat.html",
+      "view/home.html",
+      "view/histroy_order.html",
+      "view/rate.html",
+      "view/plan.html",
+      "view/setting.html",
+      "view/home_t.html",
+      "view/statistics.html",
+      "view/histroyOrder.html",
+      "view/orderDetail.html",
+      "view/my.html",
+      "view/article.html"
+    ]
+  },
+  "view/tab-webview-subpage-setting.html": {
+    "resources": [
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js/app.js",
+      "libs/easymob-webim-sdk/easemob.im-1.0.5.js",
+      "libs/easymob-webim-sdk/json2.js",
+      "libs/easymob-webim-sdk/jquery-1.11.1.js",
+      "js/mui.locker.js",
+      "js/feedback.js",
+      "css/feedback-page.css",
+      "js/feedback-page.js",
+      "libs/easymob-webim-sdk/strophe-custom-2.0.0.js",
+      "js/mui.view.js",
+      "images/logo.png",
+      "images/iconfont-tianjia.png"
+    ],
+    "refer": [
+      "view/guide.html"
+    ]
+  },
+  "view/tab-webview-subpage-contact.html": {
+    "resources": [
+      "images/60x60.gif"
+    ],
+    "refer": []
+  },
+  "view/home.html": {
+    "resources": [
+      "images/shuijiao.jpg",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "css/app.css",
+      "view/order_detail.html",
+      "js/app.js",
+      "libs/jquery.js",
+      "view/tab.html",
+      "view/plan.html",
+      "fonts/icomoon.ttf",
+      "js/app/home.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/require.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/define/bugtags.js",
+      "js/lib/bugtags.js",
+      "js/define/bughd.js",
+      "js/lib/bughd.js",
+      "images/ico/1185243.png",
+      "images/ico/1184013.png",
+      "images/ico/1185200.png",
+      "images/cbd.jpg",
+      "images/muwu.jpg",
+      "images/yuantiao.jpg",
+      "js/define/echarts.js",
+      "js/lib/echarts-all.js"
+    ],
+    "refer": [
+      "view/order_detail.html",
+      "view/template.html",
+      "view/tab.html",
+      "view/map.html",
+      "view/orderDetail.html",
+      "view/rate.html",
+      "view/setting.html",
+      "view/baiduMap.html",
+      "view/statistics.html",
+      "view/fund.html",
+      "view/histroyOrder.html",
+      "view/announce.html",
+      "view/webim.html",
+      "view/message.html",
+      "view/webCantain.html",
+      "view/web.html",
+      "view/webAdv.html",
+      "view/webAdvCantain.html",
+      "view/record.html"
+    ]
+  },
+  "view/histroy_order.html": {
+    "resources": [
+      "js/mui.min.js",
+      "css/app.css",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js/app.js"
+    ],
+    "refer": [
+      "view/order_detail.html",
+      "view/statistics.html"
+    ]
+  },
+  "view/order_detail.html": {
+    "resources": [
+      "js/mui.min.js",
+      "css/app.css",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "images/shuijiao.jpg",
+      "js/app.js"
+    ],
+    "refer": []
+  },
+  "view/rate.html": {
+    "resources": [
+      "libs/jquery.js",
+      "images/shuijiao.jpg",
+      "js/mui.min.js",
+      "css/app.css",
+      "css/mui.min.css",
+      "fonts/mui.ttf",
+      "js/app.js",
+      "images/user-photo.png",
+      "/images/user-photo.png",
+      "images/st.jpg",
+      "images/logo.png",
+      "images/user_photo.png",
+      "images/userphoto.png",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/app/rate.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/require.js",
+      "js/lib/jquery/jquery.js",
+      "css/rate.css",
+      "js/define/bugtags.js",
+      "js/define/bughd.js",
+      "js/lib/bugtags.js",
+      "js/lib/bughd.js"
+    ],
+    "refer": [
+      "view/orderDetail.html"
+    ]
+  },
+  "view/plan.html": {
+    "resources": [
+      "css/app.css",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "fonts/mui.ttf",
+      "js/mui.view.js",
+      "libs/easymob-webim-sdk/easemob.im-1.0.5.js",
+      "libs/easymob-webim-sdk/json2.js",
+      "libs/easymob-webim-sdk/jquery-1.11.1.js",
+      "css/feedback-page.css",
+      "libs/easymob-webim-sdk/strophe-custom-2.0.0.js",
+      "js/app.js",
+      "view/tab.html",
+      "js/app/plan.js",
+      "js/lib/mui/mui.view.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "css/plan.css",
+      "js/lib/bugtags.js",
+      "js/lib/bughd.js",
+      "js/require.js",
+      "js/define/bughd.js",
+      "js/define/bugtags.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/lib/mui/mui.pullToRefresh.material.js",
+      "js/lib/mui/mui.pullToRefresh.js"
+    ],
+    "refer": [
+      "view/tab.html"
+    ]
+  },
+  "view/template.html": {
+    "resources": [
+      "fonts/mui.ttf"
+    ],
+    "refer": []
+  },
+  "view/map.html": {
+    "resources": [
+      "js/app.js",
+      "js/mui.min.js",
+      "libs/jquery.js"
+    ],
+    "refer": []
+  },
+  "view/statistics.html": {
+    "refer": [
+      "view/statistics_month.html",
+      "view/order_detail.html",
+      "view/statisticsMonth.html"
+    ],
+    "resources": [
+      "js/app.js",
+      "js/mui.min.js",
+      "css/app.css",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "images/shuijiao.jpg",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/app/statistics.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/require.js",
+      "js/define/bughd.js",
+      "js/define/bugtags.js",
+      "js/lib/bughd.js",
+      "js/lib/bugtags.js"
+    ]
+  },
+  "view/home_t.html": {
+    "resources": [
+      "libs/easymob-webim-sdk/easemob.im-1.0.5.js",
+      "libs/easymob-webim-sdk/json2.js",
+      "libs/easymob-webim-sdk/jquery-1.11.1.js",
+      "js/feedback.js",
+      "css/feedback-page.css",
+      "js/feedback-page.js",
+      "libs/easymob-webim-sdk/strophe-custom-2.0.0.js",
+      "js/mui.view.js",
+      "js/app.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "css/app.css"
+    ],
+    "refer": [
+      "view/order_detail.html"
+    ]
+  },
+  "view/statistics_month.html": {
+    "resources": [
+      "js/mui.min.js",
+      "css/app.css",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js/app.js"
+    ],
+    "refer": []
+  },
+  "view/unlock.html": {
+    "href": "view/unlock.html",
+    "resources": [
+      "css/mui.min.css",
+      "js/mui.min.js",
+      "js/mui.locker.js",
+      "js/app.js",
+      "js/app/unlock.js",
+      "js/lib/mui/mui.view.js",
+      "js/lib/mui/mui.locker.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js"
+    ],
+    "refer": [
+      "view/login.html",
+      "view/main.html"
+    ],
+    "priority": 0
+  },
+  "view/forget_password.html": {
+    "href": "view/forget_password.html",
+    "resources": [
+      "css/mui.min.css",
+      "css/style.css",
+      "js/mui.min.js",
+      "js/app.js"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "view/histroyOrder.html": {
+    "refer": [
+      "view/statistics.html",
+      "view/orderDetail.html"
+    ],
+    "resources": [
+      "js/mui.min.js",
+      "js/app.js",
+      "css/mui.min.css",
+      "css/app.css",
+      "fonts/mui.ttf",
+      "js/require.js",
+      "js/app/histroyOrder.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/define/bughd.js",
+      "js/lib/bughd.js",
+      "js/define/bugtags.js",
+      "js/define/bugCollect.js",
+      "js/lib/bugtags.js"
+    ]
+  },
+  "view/orderDetail.html": {
+    "resources": [
+      "css/app.css",
+      "images/shuijiao.jpg",
+      "js/app.js",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "images/60x60.gif",
+      "view/baiduMap.html",
+      "js/app/orderDetail.js",
+      "js/require.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/lib/bughd.js",
+      "js/lib/bugtags.js",
+      "js/define/bughd.js",
+      "js/define/bugtags.js"
+    ],
+    "refer": [
+      "view/baiduMap.html"
+    ]
+  },
+  "view/statisticsMonth.html": {
+    "href": "view/statisticsMonth.html",
+    "resources": [
+      "js/mui.min.js",
+      "js/app.js",
+      "css/mui.min.css",
+      "css/app.css",
+      "fonts/mui.ttf",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/app/statisticsMonth.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/require.js",
+      "js/define/bughd.js",
+      "js/define/bugtags.js",
+      "js/lib/bughd.js",
+      "js/lib/bugtags.js"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "view/userreg.html": {
+    "resources": [
+      "fonts/mui.ttf",
+      "view/userreg.html",
+      "js/app.js",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "css/style.css"
+    ],
+    "refer": [
+      "view/login.html"
+    ]
+  },
+  "view/baiduMap.html": {
+    "resources": [
+      "js/app.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "css/app.css",
+      "view/orderDetail.html",
+      "fonts/icomoon.ttf",
+      "js/app/baiduMap.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/lib/mui/mui.view.js",
+      "js/lib/mui/mui.locker.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/require.js",
+      "js/lib/jquery/jquery.js",
+      "js/lib/bughd.js",
+      "js/lib/bugtags.js",
+      "js/define/bughd.js",
+      "js/define/bugtags.js"
+    ],
+    "refer": [
+      "view/orderDetail.html"
+    ]
+  },
+  "view/index.html": {
+    "resources": [
+      "js/app.js",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "css/style.css",
+      "js/mui.enterfocus.js",
+      "fonts/mui.ttf",
+      "images/logo.png",
+      "css/login.css",
+      "css/app.css",
+      "js/require.js",
+      "js/main.js",
+      "js/lib/mui.js",
+      "js/app/index.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/define/bugtags.js",
+      "js/lib/bugtags.js",
+      "js/define/bughd.js",
+      "js/lib/bughd.js",
+      "js/define/bugCollect.js"
+    ],
+    "refer": [
+      "view/tab.html",
+      "view/guide.html",
+      "view/reg.html",
+      "view/unlock.html",
+      "view/forgetPassword.html",
+      "view/regmore.html",
+      "view/regstep1.html",
+      "view/regstep2.html",
+      "view/regstep3.html"
+    ]
+  },
+  "view/fund.html": {
+    "resources": [
+      "js/app.js",
+      "js/mui.min.js",
+      "css/app.css",
+      "fonts/mui.ttf",
+      "css/mui.min.css"
+    ],
+    "refer": []
+  },
+  "view/announce.html": {
+    "resources": [
+      "js/app.js",
+      "js/mui.min.js",
+      "css/app.css",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "fonts/icomoon.ttf",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/app/announce.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/require.js",
+      "js/define/bughd.js",
+      "js/lib/bughd.js",
+      "js/define/bugCollect.js",
+      "js/define/bugtags.js",
+      "js/lib/bugtags.js"
+    ],
+    "refer": []
+  },
+  "view/webim.html": {
+    "resources": [
+      "js/app/webim.js",
+      "css/webim.css",
+      "js/lib/easymob-webim-sdk//strophe-custom-2.0.0.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/lib/mui/mui.view.js",
+      "js/lib/mui/mui.locker.js",
+      "js/lib/easymob-webim-sdk//json2.js",
+      "js/lib/bugtags.js",
+      "js/lib/easymob-webim-sdk//easemob.im-1.0.5.js",
+      "js/define/app.js",
+      "js/define/bughd.js",
+      "js/define/bugtags.js",
+      "css/mui.min.css",
+      "js/define/easemob.js",
+      "js/lib/bughd.js",
+      "js/lib/jquery/jquery.js",
+      "js/require.js",
+      "js/lib/mui/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.imageviewer.css"
+    ],
+    "refer": []
+  },
+  "view/my.html": {
+    "resources": [
+      "js/app/home.js",
+      "js/define/bughd.js",
+      "css/app.css",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/define/bugtags.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js/lib/bughd.js",
+      "js/lib/bugtags.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/require.js",
+      "images/60x60.gif",
+      "css/my.css",
+      "images/app-my-top-bg.jpg",
+      "images/logo.png",
+      "view/setting.html",
+      "js/app/my.js",
+      "images/user-photo.png",
+      "images/ico/1185200.png",
+      "images/ico/1184013.png",
+      "images/ico/1185243.png",
+      "images/ico/1185207.png",
+      "images/ico/1185216.png",
+      "images/ico/1185237.png",
+      "images/ico/1185199.png",
+      "images/ico/1185232.png",
+      "images/ico/1185214.png",
+      "images/user-girl.png",
+      "images/ico/1175126.png",
+      "js/define/echarts.js",
+      "js/lib/echarts-all.js"
+    ],
+    "refer": [
+      "view/orderDetail.html",
+      "view/baiduMap.html",
+      "view/test.html",
+      "view/announce.html",
+      "view/histroyOrder.html",
+      "view/statistics.html",
+      "view/wallet.html",
+      "view/setting.html",
+      "view/message.html",
+      "view/moneyHistory.html"
+    ]
+  },
+  "view/test.html": {
+    "resources": [
+      "js/lib/easymob-webim-sdk//strophe-custom-2.0.0.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "fonts/mui.ttf",
+      "js/lib/mui/mui.view.js",
+      "js/lib/mui/mui.locker.js",
+      "js/lib/easymob-webim-sdk//json2.js",
+      "js/lib/bugtags.js",
+      "js/lib/easymob-webim-sdk//easemob.im-1.0.5.js",
+      "js/define/app.js",
+      "js/define/bughd.js",
+      "js/app/setting.js",
+      "js/define/bugtags.js",
+      "css/mui.min.css",
+      "js/lib/bughd.js",
+      "js/define/easemob.js",
+      "js/lib/jquery/jquery.js",
+      "css/setting.css",
+      "css/feedback-page.css",
+      "images/user-photo.png",
+      "js/require.js",
+      "js/lib/mui/mui.min.js"
+    ],
+    "refer": []
+  },
+  "view/wallet.html": {
+    "resources": [
+      "js/app/wallet.js",
+      "images/app-my-top-bg.jpg",
+      "images/user-girl.png",
+      "css/my.css",
+      "css/app.css",
+      "css/mui.min.css",
+      "js/require.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "fonts/mui.ttf",
+      "js/lib/bugtags.js",
+      "js/define/app.js",
+      "js/define/bughd.js",
+      "js/define/bugtags.js",
+      "js/lib/bughd.js",
+      "js/lib/mui/mui.min.js",
+      "css/wallet.css"
+    ],
+    "refer": [
+      "view/withdraw.html",
+      "view/card.html"
+    ]
+  },
+  "view/withdraw.html": {
+    "resources": [
+      "js/app/withdraw.js",
+      "css/withdraw.css",
+      "js/lib/mui/mui.poppicker.js",
+      "js/lib/mui/mui.picker.js",
+      "css/mui.poppicker.css",
+      "css/mui.picker.css",
+      "js/define/bughd.js",
+      "css/app.css",
+      "js/define/bugtags.js",
+      "css/mui.min.css",
+      "js/lib/bughd.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/require.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/lib/bugtags.js"
+    ],
+    "refer": [
+      "view/tab.html"
+    ]
+  },
+  "view/forgetPassword.html": {
+    "resources": [
+      "js/app/forgetPassword.js",
+      "css/reg.css",
+      "css/app.css",
+      "js/lib/mui/mui.enterfocus.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/require.js"
+    ],
+    "refer": [
+      "view/index.html"
+    ]
+  },
+  "view/message.html": {
+    "resources": [
+      "js/app/message.js",
+      "css/app.css",
+      "css/mui.min.css",
+      "js/require.js",
+      "js/define/bughd.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/define/bugtags.js",
+      "js/lib/bughd.js",
+      "js/lib/bugtags.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "fonts/mui.ttf"
+    ],
+    "refer": [
+      "view/webCantain.html",
+      "view/web.html",
+      "view/webMessage.html",
+      "view/webMessageCantain.html"
+    ]
+  },
+  "view/webCantain.html": {
+    "resources": [
+      "js/define/bughd.js",
+      "css/app.css",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/define/bugtags.js",
+      "css/mui.min.css",
+      "js/lib/bughd.js",
+      "js/lib/bugtags.js",
+      "js/app/loadweb.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/require.js",
+      "view/web.html",
+      "fonts/mui.ttf",
+      "js/app/webCantain.js"
+    ],
+    "refer": [
+      "view/web.html",
+      "view/webAdv.html"
+    ]
+  },
+  "view/web.html": {
+    "resources": [
+      "js/app/loadweb.js",
+      "js/define/bughd.js",
+      "css/app.css",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/define/bugtags.js",
+      "css/mui.min.css",
+      "js/lib/bughd.js",
+      "js/lib/bugtags.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/require.js",
+      "css/article.css"
+    ],
+    "refer": []
+  },
+  "view/regstep1.html": {
+    "resources": [
+      "css/plan.css",
+      "css/app.css",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js/require.js",
+      "js/app/regstep1.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/lib/mui/mui.view.js",
+      "js/lib/bugtags.js",
+      "js/define/app.js",
+      "js/define/bughd.js",
+      "js/define/bugtags.js",
+      "js/lib/bughd.js",
+      "js/lib/mui/mui.min.js",
+      "css/regstep.css",
+      "css/step.css",
+      "view/agreement.html"
+    ],
+    "refer": [
+      "view/regstep2.html",
+      "view/index.html",
+      "view/agreement.html"
+    ]
+  },
+  "view/regstep2.html": {
+    "resources": [
+      "css/plan.css",
+      "css/app.css",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js/require.js",
+      "js/define/bughd.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/define/bugtags.js",
+      "js/app/regstep2.js",
+      "js/lib/mui/mui.view.js",
+      "js/lib/bughd.js",
+      "js/lib/bugtags.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "css/regstep.css",
+      "css/step.css",
+      "css/mui.poppicker.css",
+      "css/mui.picker.css",
+      "js/lib/mui/mui.poppicker.js",
+      "js/lib/mui/mui.picker.js"
+    ],
+    "refer": [
+      "view/regstep3.html",
+      "view/index.html"
+    ]
+  },
+  "view/regstep3.html": {
+    "resources": [
+      "js/app/regstep3.js",
+      "css/plan.css",
+      "css/app.css",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js/require.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/lib/mui/mui.view.js",
+      "js/lib/bugtags.js",
+      "js/define/app.js",
+      "js/define/bughd.js",
+      "js/define/bugtags.js",
+      "js/lib/bughd.js",
+      "js/lib/mui/mui.min.js",
+      "css/regstep.css",
+      "css/step.css"
+    ],
+    "refer": [
+      "view/index.html"
+    ]
+  },
+  "view/moneyHistory.html": {
+    "resources": [
+      "js/app/money.js",
+      "css/app.css",
+      "js/lib/mui/mui.enterfocus.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js",
+      "js/require.js"
+    ],
+    "refer": []
+  },
+  "view/card.html": {
+    "resources": [
+      "css/card.css",
+      "images/cbd.jpg",
+      "images/yuantiao.jpg",
+      "js/app/card.js",
+      "images/logo.png",
+      "css/app.css",
+      "css/mui.min.css",
+      "js/require.js",
+      "fonts/mui.ttf",
+      "js/lib/mui/mui.poppicker.js",
+      "js/lib/mui/mui.picker.js",
+      "js/lib/mui/mui.enterfocus.js",
+      "js/lib/mui/mui.min.js",
+      "js/define/app.js"
+    ],
+    "refer": [
+      "view/regstep2.html"
+    ]
+  },
+  "view/article.html": {
+    "resources": [
+      "js/app/message.js",
+      "css/app.css",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js/app/article.js",
+      "js/require.js",
+      "css/article.css",
+      "js/lib/mui/mui.enterfocus.js"
+    ],
+    "refer": [
+      "view/webCantain.html",
+      "view/web.html"
+    ]
+  },
+  "view/webMessage.html": {
+    "resources": [
+      "js/app/loadwebMessage.js",
+      "css/article.css"
+    ],
+    "refer": []
+  },
+  "view/webMessageCantain.html": {
+    "resources": [
+      "js/app/webMessageCantain.js",
+      "view/webMessage.html"
+    ],
+    "refer": [
+      "view/webMessage.html"
+    ]
+  },
+  "view/webAdvCantain.html": {
+    "resources": [
+      "view/webAdv.html",
+      "js/app/webCantain.js"
+    ],
+    "refer": [
+      "view/webAdv.html"
+    ]
+  },
+  "view/webAdv.html": {
+    "resources": [
+      "js/app/loadweb.js"
+    ],
+    "refer": []
+  },
+  "view/agreement.html": {
+    "resources": [
+      "css/app.css",
+      "css/mui.min.css",
+      "css/article.css",
+      "js/require.js",
+      "fonts/mui.ttf",
+      "js/app/webCantain.js"
+    ],
+    "refer": []
+  },
+  "view/record.html": {
+    "resources": [
+      "js/app/record.js",
+      "js/lib/mui/mui.poppicker.js",
+      "js/lib/mui/mui.picker.js"
+    ],
+    "refer": []
+  }
+}

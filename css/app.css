@@ -1,0 +1,241 @@
+.ui-page-login,
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+.mui-content {
+	height: 100%;
+}
+
+.mui-checkbox.app-checkbox-fixed input[type=checkbox] {
+	position: relative;
+	top: 0;
+}
+
+#plan .mui-control-item span {
+	display: block;
+	line-height: 15px;
+	margin-top: -10px;
+}
+
+#planedit .mui-control-item span {
+	display: block;
+	line-height: 15px;
+	margin-top: -10px;
+}
+
+.mui-table-view .mui-media-object {
+	line-height: 80px;
+	max-width: 80px;
+	height: 80px;
+}
+
+.mui-loader {
+	margin-top: 25%;
+	width: 100%;
+	height: 60%;
+	color: #888;
+	font-size: 14px;
+	text-align: center;
+	background-color: #efeff4;
+}
+
+.app-top-blank {
+	margin-top: 60px;
+}
+
+.app-padded {
+	padding-left: 10px
+}
+
+.app-right {
+	right: 0;
+	float: right;
+}
+
+.app-left {
+	left: 0;
+	float: left;
+}
+
+.app-center {
+	text-align: center;
+}
+
+.app-table {
+	margin-top: 5px;
+}
+
+.app-table .mui-table-view-cell {
+	right: 0px;
+}
+
+.app-row h5 {
+	font-size: 16px;
+}
+
+.app-row button {
+	margin-left: 5px;
+}
+
+.app-row-mr {
+	margin-right: 60px;
+}
+
+.app-rate-user p {
+	margin-right: 10px;
+}
+
+.app-rate-content p {
+	font-size: 16px;
+}
+
+.app-rate img.app-rate-img {
+	border-radius: 50%;
+}
+
+.app-uname,
+.app-address {
+	margin-top: 10px;
+}
+
+.app-foot {
+	margin-top: 10px;
+}
+
+.app-uphone {
+	margin-left: 10px;
+}
+
+.app-pay {
+	margin-right: 10px;
+}
+
+.app-pay-price {
+	padding-left: 5px;
+	padding-right: 5px;
+	color: #FF9DC6;
+}
+
+.app-success {
+	color: green;
+}
+
+.app-waiting {
+	color: blue;
+}
+
+.app-error {
+	color: red;
+}
+
+.app-grid {
+	background-color: #efeff4;
+}
+
+.mui-grid-view.app-grid .app-cell {
+	background-color: #fff;
+	-moz-border-radius: 5px;
+	/* Gecko browsers */
+	-webkit-border-radius: 5px;
+	/* Webkit browsers */
+	border-radius: 5px;
+}
+
+
+/*图标自定义*/
+
+.app-icon {
+	display: inline-block;
+	text-decoration: none;
+	-webkit-font-smoothing: antialiased;
+	background-size: cover;
+	height: 50px;
+	width: 50px;
+}
+
+.app-icon-location {
+	background-image: url(../images/ico/1185243.png);
+	background-size: cover;
+	height: 50px;
+	width: 50px;
+}
+
+.app-icon-message {
+	background-image: url(../images/ico/1184013.png);
+}
+
+.app-icon-order {
+	background-image: url(../images/ico/1185200.png);
+}
+
+.app-icon-wallet {
+	background-image: url(../images/ico/1185207.png);
+}
+
+.app-icon-comments {
+	background-image: url(../images/ico/1185216.png);
+}
+
+.app-icon-about {
+	background-image: url(../images/ico/1185237.png);
+}
+
+.app-icon-schedule {
+	background-image: url(../images/ico/1185199.png);
+}
+
+.app-icon-setting {
+	background-image: url(../images/ico/1185232.png);
+}
+
+.app-icon-statistics {
+	background-image: url(../images/ico/1185214.png);
+}
+
+.app-icon-feedback {
+	background-image: url(../images/ico/1175126.png);
+}
+
+.mui-input-group .mui-input-row.upload-image-area,
+.show-image-area {
+	min-height: 100px;
+	height: auto;
+}
+
+.show-image-area div {
+	text-align: center;
+	display: block;
+	height: 78px;
+	line-height: 78px;
+	font-size: 50px;
+	color: #b9b8b8;
+	margin-left: -29%;
+}
+
+.show-image-area div span {
+	font-size: 20px;
+	display: inline-block;
+	position: fixed;
+}
+
+.app-icon .mui-badge {
+	font-size: 10px;
+	line-height: 1.4;
+	position: absolute;
+	top: 2px;
+	left: 100%;
+	margin-left: -25px;
+	padding: 1px 5px;
+	color: #fff;
+	background: red
+}
+
+.chart {
+	height: 200px;
+	margin: 0px;
+	padding: 0px;
+}
